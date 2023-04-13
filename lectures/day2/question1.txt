@@ -1,0 +1,67 @@
+Ironman is fighting and requires the help of jarvis but jarvis is busy computing palindrome for alphanumeric characters. IronMan needs to activate the sonic punch to kill thanos but needs jarvis's help who is stuck with computing palindrome. the onus is on you to compute the palindrome so that jarvis can save IronMan.
+
+write a function saveIronMan which will return true is the input string is a palindrome. 
+
+Today's Interview QnAs
+Company - Wipro
+Role- Data Analyst
+
+1. What are different types of Collation Sensitivity?
+
+Following are the different types of Collation Sensitivity:
+- Case sensitive: A and a, B and b
+- Kana sensitive: Japanese Kana characters
+- Width sensitive: single byte characters and double-byte characters.
+- Accent Sensitive.
+
+
+2. What is OLTP ?
+
+OLTP or Online Transaction Processing is a type of data processing that consists of executing a number of transactions occurring concurrently—online banking, shopping, order entry, or sending text messages, for example. These transactions traditionally are referred to as economic or financial transactions, recorded and secured so that an enterprise can access the information anytime for accounting or reporting purposes.
+
+
+3. What is OLAP?
+
+OLAP stands for On-Line Analytical Processing. OLAP is a classification of software technology which authorizes analysts, managers, and executives to gain insight into information through fast, consistent, interactive access in a wide variety of possible views of data that has been transformed from raw information to reflect the real dimensionality of the enterprise as understood by the clients.
+
+OLAP implement the multidimensional analysis of business information and support the capability for complex estimations, trend analysis, and sophisticated data modeling.
+
+
+4. How OLAP Works?
+
+Fundamentally, OLAP has a very simple concept. It pre-calculates most of the queries that are typically very hard to execute over tabular databases, namely aggregation, joining, and grouping. These queries are calculated during a process that is usually called 'building' or 'processing' of the OLAP cube. This process happens overnight, and by the time end users get to work - data will have been updated.
+
+Rohit Sahni
+Rohit Sahni
+• 2nd
+Senior Consultant at RSA
+19h • 19 hours ago
+Follow
+Hi everyone ! Shout out to all ANALYTICS aspirants (students) !
+
+RSA is hiring for Analytics Interns who can start immediately (preferably 2021 graduates or students who recently graduated in 2022 who can join us within a month).
+
+Are you someone who loves working on data, are looking to work with actuaries using various analytics like trending, building simple predictive models and much more!? This might be an end to your search if this excites you!
+
+This will be a 6 month internship (full time) with perks (monthly stipend, internship completion certificate, gaining real time work experience with various experienced professionals, and definitely a great opportunity to build your network !).
+
+In case you are keen for this opportunity, drop me a message on LinkedIn with your resume.
+
+
+Our team at Amazon is hiring for a senior BIE in the forecasting and planning research team (Location - HYD). You will be responsible for analyzing and identifying specific instances of risk, broader risk trends and points of customer friction, and developing scalable solutions for prevention. You should be able to apply a breadth of tools, data sources, and analytical techniques to answer a wide range of high-impact business questions and proactively present new insights in a concise and effective manner. You should be an effective communicator capable of independently driving issues to resolution and communicating insights to non-technical and technical audiences. This is a high-impact role with goals that directly impact the bottom line of the business.
+
+BASIC QUALIFICATIONS :
+
+- Bachelor’s degree in Business, Economics, Engineering or a related field of study
+- Demonstrated success leading project/product delivery for large, cross-functional programs
+- A demonstrated record of partnering with and influencing cross-functional teams. Experience working with engineering teams to define, scope and prioritize product requirements
+
+PREFERRED QUALIFICATIONS :
+
+- Master’s degree in business, engineering or a related field.
+- Experience in building customer-facing ML products
+- Excellent analytical and quantitative skills; ability to use hard data and metrics to back up assumptions and develop business cases
+- Experience working with large data sets, databases, and cloud-based storage
+- The right person will be highly technical and analytical, possess software design and development and/or IT and networking implementation/consulting experience
+
+Please DM me, and send a request in case you are interested. We can discuss further and can refer you if you're a good fit.

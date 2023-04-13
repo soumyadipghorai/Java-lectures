@@ -1,0 +1,1 @@
+// create a class called as university which holds variables type of univ 
